@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body
+{
+    background-color: var(--color-gray-900);
+}
+.MuiDialog-paper {
+    background-color: #1a1a1a !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+.MuiDialogContent-root {
+    overflow: hidden !important; 
+  }
