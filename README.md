@@ -7,7 +7,7 @@ A movie database app where you can search for any movie and get some of it's det
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/d12a6ecb-eb90-4c7b-8aaa-4572d91929f8)
 
-![Image](https://github.com/user-attachments/assets/446c810a-48e6-4b38-be4b-1988e073935a)
+![Image](https://github.com/user-attachments/assets/bb8f08fb-bece-4c77-81d6-075a96164728)
 
 ![Image](https://github.com/user-attachments/assets/09487be0-c1f9-496a-81bb-fe2274320284)
 
