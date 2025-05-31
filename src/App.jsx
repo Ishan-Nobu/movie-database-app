@@ -10,7 +10,7 @@ function App()
 
   useEffect(() => 
   {
-    dispatch(fetchMovies({ searchQuery: "The Colors Within", page: 1})); // default call when first mounted
+    dispatch(fetchMovies({ searchQuery: "Kung Fu Panda", page: 1})); // default call when first mounted
   }, []);
 
   return (

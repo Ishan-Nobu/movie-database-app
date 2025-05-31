@@ -2,6 +2,8 @@
 A movie database app where you can search for any movie and get some of it's details built using react, [OMDbAPI](https://www.omdbapi.com/), [TailwindCSS](https://tailwindcss.com/), [MaterialUI](https://mui.com/) and [ReactRedux](https://react-redux.js.org/).
 
 ## Links
+[Live Build](https://react-moviebase-app.netlify.app/)
+
 [Repo](https://github.com/Ishan-Nobu/movie-database-app)
 
 ## Screenshots
